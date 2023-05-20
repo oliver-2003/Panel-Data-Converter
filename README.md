@@ -1,5 +1,5 @@
 # Panel-Data-Converter
-This is a Python script that converts structured cross sectional data to panel data using Pandas. 
+This is a Python script that converts structured cross-sectional data to panel data using Pandas. 
 
 ## Data Structure
 | code | variable_name | t1 | t2 | ... | tn |
@@ -10,7 +10,7 @@ This is a Python script that converts structured cross sectional data to panel d
 
 
 ## Steps
-1. Create a directory called "data_tables" under the working directory and put all of the cross sectional data files into the directory.
+1. Create a directory called "data_tables" under the working directory and put all of the cross-sectional data files into the directory.
 2. Execute the script
 3. The converted panel data will be exported as a csv file to the working directory.
 
